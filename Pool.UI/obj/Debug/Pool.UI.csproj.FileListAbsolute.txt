@@ -1,0 +1,58 @@
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.UI.exe.config
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.UI.exe
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.UI.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\EntityFramework.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.Bll.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.Dal.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.Entities.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.Core.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.Bll.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.Bll.dll.config
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\EntityFramework.xml
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Ninject.xml
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.Dal.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.Dal.dll.config
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.Entities.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.Entities.dll.config
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.Core.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\bin\Debug\Pool.Core.dll.config
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\obj\Debug\Pool.UI.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\obj\Debug\Pool.UI.Properties.Resources.resources
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\obj\Debug\Pool.UI.csproj.GenerateResource.cache
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\obj\Debug\Pool.UI.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\obj\Debug\Pool.UI.exe
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\obj\Debug\Pool.UI.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\obj\Debug\Pool.UI.Anasayfa.resources
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.UI\obj\Debug\Pool.UI.Siparis.resources
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.UI.exe.config
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.UI.exe
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.UI.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\EntityFramework.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.Bll.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.Core.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.Entities.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.Dal.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.Bll.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.Bll.dll.config
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.Core.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.Core.dll.config
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.Entities.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.Entities.dll.config
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\EntityFramework.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Ninject.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.Dal.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\bin\Debug\Pool.Dal.dll.config
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\obj\Debug\Pool.UI.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\obj\Debug\Pool.UI.Anasayfa.resources
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\obj\Debug\Pool.UI.Properties.Resources.resources
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\obj\Debug\Pool.UI.Siparis.resources
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\obj\Debug\Pool.UI.csproj.GenerateResource.cache
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\obj\Debug\Pool.UI.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\obj\Debug\Pool.UI.exe
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\obj\Debug\Pool.UI.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\obj\Debug\Pool.UI.Hesap.resources
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.UI\obj\Debug\Pool.UI.Rapor.resources

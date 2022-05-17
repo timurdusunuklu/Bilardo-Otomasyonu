@@ -1,0 +1,33 @@
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\bin\Debug\Pool.Entities.dll.config
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\bin\Debug\Pool.Entities.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\bin\Debug\Pool.Entities.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\bin\Debug\EntityFramework.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\bin\Debug\Pool.Core.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\bin\Debug\Pool.Core.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\bin\Debug\Pool.Core.dll.config
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\bin\Debug\EntityFramework.xml
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\obj\Debug\Pool.Entities.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\obj\Debug\Pool.Entities.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\obj\Debug\Pool.Entities.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\obj\Debug\Pool.Entities.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\bin\Debug\Ninject.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Entities\bin\Debug\Ninject.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\bin\Debug\Pool.Entities.dll.config
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\bin\Debug\Pool.Entities.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\bin\Debug\Pool.Entities.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\bin\Debug\EntityFramework.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\bin\Debug\Pool.Core.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\bin\Debug\Ninject.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\bin\Debug\Pool.Core.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\bin\Debug\Pool.Core.dll.config
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\bin\Debug\EntityFramework.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\bin\Debug\Ninject.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\obj\Debug\Pool.Entities.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\obj\Debug\Pool.Entities.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\obj\Debug\Pool.Entities.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\obj\Debug\Pool.Entities.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Entities\obj\Debug\Pool.Entities.csproj.CopyComplete

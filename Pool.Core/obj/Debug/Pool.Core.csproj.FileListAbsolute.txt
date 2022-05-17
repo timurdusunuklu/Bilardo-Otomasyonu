@@ -1,0 +1,26 @@
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\bin\Debug\Pool.Core.dll.config
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\bin\Debug\Pool.Core.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\bin\Debug\Pool.Core.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\bin\Debug\EntityFramework.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\bin\Debug\EntityFramework.xml
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\obj\Debug\Pool.Core.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\obj\Debug\Pool.Core.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\obj\Debug\Pool.Core.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\obj\Debug\Pool.Core.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\bin\Debug\Ninject.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Core\bin\Debug\Ninject.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\bin\Debug\Pool.Core.dll.config
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\bin\Debug\Pool.Core.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\bin\Debug\Pool.Core.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\bin\Debug\EntityFramework.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\bin\Debug\Ninject.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\bin\Debug\EntityFramework.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\bin\Debug\Ninject.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\obj\Debug\Pool.Core.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\obj\Debug\Pool.Core.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\obj\Debug\Pool.Core.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Core\obj\Debug\Pool.Core.pdb

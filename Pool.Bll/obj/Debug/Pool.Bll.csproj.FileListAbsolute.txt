@@ -1,0 +1,45 @@
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Pool.Bll.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Pool.Bll.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Ninject.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Pool.Core.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Pool.Dal.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Pool.Entities.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\EntityFramework.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Pool.Core.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Pool.Core.dll.config
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Pool.Dal.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Pool.Dal.dll.config
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Pool.Entities.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Pool.Entities.dll.config
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Ninject.xml
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\EntityFramework.xml
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\obj\Debug\Pool.Bll.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\obj\Debug\Pool.Bll.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\obj\Debug\Pool.Bll.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\obj\Debug\Pool.Bll.pdb
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\Pool.Bll.dll.config
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\timur\OneDrive\Masaüstü\BilardoDemo\Pool\Pool.Bll\obj\Debug\Pool.Bll.csproj.CopyComplete
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\obj\Debug\Pool.Bll.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\obj\Debug\Pool.Bll.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\obj\Debug\Pool.Bll.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\obj\Debug\Pool.Bll.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Pool.Bll.dll.config
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Pool.Bll.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Pool.Bll.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\EntityFramework.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Ninject.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Pool.Core.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Pool.Dal.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Pool.Entities.dll
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Pool.Core.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Pool.Core.dll.config
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Pool.Dal.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Pool.Dal.dll.config
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Pool.Entities.pdb
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Pool.Entities.dll.config
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\EntityFramework.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\timur\OneDrive\Masaüstü\Poll Otomasyon\Pool\Pool.Bll\bin\Debug\Ninject.xml
